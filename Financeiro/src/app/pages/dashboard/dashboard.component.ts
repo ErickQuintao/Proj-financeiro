@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { MenuService } from 'src/app/services/menu.service';
 
 @Component({
-  selector: 'app-dashboard',
+  selector: 'dashboard',
   templateUrl: './dashboard.component.html',
   styleUrls: ['./dashboard.component.scss']
 })
